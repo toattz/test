@@ -15,11 +15,11 @@ else
   {
     echo "$value : fly\n";	
   }
-  /*else if($value==3)
+  else if($value==3)
   {
     echo "$value : bettle\n";	
   }
-  else if($value==4)
+  /*else if($value==4)
   {
     echo "$value : coach\n";	
   }
