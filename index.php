@@ -11,11 +11,11 @@ else
   {
     echo "$value : bee\n";	
   }
-  /*else if($value==2)
+  else if($value==2)
   {
     echo "$value : fly\n";	
   }
-  else if($value==3)
+  /*else if($value==3)
   {
     echo "$value : bettle\n";	
   }
