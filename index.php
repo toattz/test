@@ -11,7 +11,7 @@ else
   {
     echo "$value : bee\n";	
   }
-  else if($value==2)
+  /*else if($value==2)
   {
     echo "$value : fly\n";	
   }
@@ -19,7 +19,7 @@ else
   {
     echo "$value : bettle\n";	
   }
-  /*else if($value==4)
+  else if($value==4)
   {
     echo "$value : coach\n";	
   }
